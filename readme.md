@@ -1,6 +1,6 @@
 # Mahjong Game (C# WinForms)
 
-![Mahjong Banner](https://upload.wikimedia.org/wikipedia/commons/0/0b/Mahjong_Set.jpg "Mahjong Game Banner")
+![Mahjong Banner](https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-mahjong-board-game-banner-background-image_259917.jpg)
 
 ## Project Description
 
@@ -36,3 +36,4 @@ Core components of the application include scenes (MenuScene, GameScene, PauseSc
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/mahjong-winforms.git
+
