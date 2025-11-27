@@ -23,7 +23,7 @@ Core components of the application include scenes (MenuScene, GameScene, PauseSc
 
 - Operating System: Windows 10 / Windows 11  
 - Runtime: .NET 6 or later (Windows Forms)  
-- RAM: 4 GB minimum  
+- RAM: 3 GB minimum  
 - External Libraries:  
   - Newtonsoft.Json  
   - System.Drawing.Common (if needed)  
@@ -36,4 +36,5 @@ Core components of the application include scenes (MenuScene, GameScene, PauseSc
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/mahjong-winforms.git
+
 
